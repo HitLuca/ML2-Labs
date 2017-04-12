@@ -1,2 +1,2 @@
-# ML2-Assignments
-Assignments for the Machine Learning 2 course at UvA
+# ML2-Labs
+Lab exercises for the Machine Learning 2 course at UvA
